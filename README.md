@@ -3,5 +3,4 @@ This my final assignement from The Deep Learning course in this assignement I tr
 ## Images
 
 <img src="https://hackernoon.com/hn-images/1*6xj691fPWf3S-mWUCbxSJg.jpeg" width = "500"/>
-
-<sub>CT scan of the author </sub>
+<sub>Simple model of a RNN</sub>
