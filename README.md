@@ -4,5 +4,6 @@ This my final assignement from The Deep Learning course in this assignement I tr
 
 <img src="https://hackernoon.com/hn-images/1*6xj691fPWf3S-mWUCbxSJg.jpeg" width = "500"/>
 <sub>Simple model of a RNN</sub>
+
 ## Author of this work
 Benas Maruškevičius KT-8/2
